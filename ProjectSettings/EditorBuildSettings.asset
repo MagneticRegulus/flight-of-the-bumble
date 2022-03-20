@@ -6,9 +6,30 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Over.unity
+    path: Assets/Scenes/Open.unity
+    guid: 82474ee3c6ba511489765a2f8de0a52b
+  - enabled: 1
+    path: Assets/Scenes/Open Over.unity
+    guid: be631e956a6c935408a674b48ad8c6ef
+  - enabled: 1
+    path: Assets/Scenes/Cavern.unity
+    guid: 9133716932ae4d843b6c875a08c06f97
+  - enabled: 1
+    path: Assets/Scenes/Cavern Over.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
-    path: Assets/Scenes/Under.unity
+    path: Assets/Scenes/Cavern Under.unity
+    guid: bc77d5dcccb59b84b8674161c554a785
+  - enabled: 1
+    path: Assets/Scenes/Cavern Under Platform.unity
     guid: 0b5e9acbfeac0364c965ba9f63ab4da0
+  - enabled: 1
+    path: Assets/Scenes/Cavern Over Movement.unity
+    guid: e68712025b060014789999483ef793f0
+  - enabled: 1
+    path: Assets/Scenes/Cavern Moving Squeeze.unity
+    guid: 183b6ba10d323e34593333358fb24306
+  - enabled: 1
+    path: Assets/Scenes/Cavern Under Moving Platform.unity
+    guid: 0f53dea2311e2b74d91c5c1e6e462692
   m_configObjects: {}

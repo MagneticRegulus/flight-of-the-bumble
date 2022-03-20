@@ -22,7 +22,7 @@ public class CollisionHandler : MonoBehaviour
 
     void Update()
     {
-        CheckForCheats(); // ResponsToDebugKeys
+        CheckForCheats(); // RespondToDebugKeys
     }
 
     void CheckForCheats()
